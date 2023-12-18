@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,                   /* Enable experimental support for legacy experimental decorators. */
+    "moduleResolution": "node10",                     /* Specify how TypeScript looks up a file from a given module specifier. */
+  }
+}
